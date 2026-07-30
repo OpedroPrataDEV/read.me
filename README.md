@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Caetano Prata! 👋
 
-<!--
-**opratapedro-droid/opratapedro-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta da tecnologia em transição/evolução constante no ecossistema de desenvolvimento de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Sobre Mim
+- 🚀 **Foco Atual:** Me aprofundando em **Front-End (HTML5, CSS3, JavaScript)** para criação de Landing Pages e Aplicações Web.
+- 🧱 **Base Sólida:** Fundamentos de programação e lógica estruturados em **C** e **Python**.
+- 🎓 **Estudando na DIO:** Trilha Pro Vitalício focada em desenvolvimento web, projetos práticos e boas práticas de código.
+- 💡 **Objetivo:** Desenvolver projetos reais, monetizar com freelance e evoluir no mercado de tecnologia.
+
+---
