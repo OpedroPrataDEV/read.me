@@ -43,5 +43,5 @@ Estou trabalhando para transformar meu aprendizado em projetos cada vez mais com
 
 ## 📫 Contato
 
-- **LinkedIn:** [Adicione aqui o link do seu perfil]
+- **LinkedIn:** [linkedin.com/in/pedro-prata-3674a9289](https://www.linkedin.com/in/pedro-prata-3674a9289/)
 - **GitHub:** [github.com/OpedroPrataDEV](https://github.com/OpedroPrataDEV)
