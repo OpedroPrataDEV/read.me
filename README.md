@@ -1,13 +1,47 @@
-# Olá, eu sou o Pedro Caetano Prata! 👋
+# Olá! Eu sou Pedro Prata 👋
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta da tecnologia em transição/evolução constante no ecossistema de desenvolvimento de software.
+🎓 Estudante de **Ciência da Computação na Universidade Federal Fluminense (UFF)**, interessado em tecnologia, desenvolvimento de software e resolução de problemas por meio da programação.
+
+Busco construir uma base sólida em computação, desenvolver projetos práticos e evoluir continuamente como profissional da área de tecnologia.
+
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Graduando em Ciência da Computação pela **Universidade Federal Fluminense (UFF)**.
+- 🤖 Experiência com programação de robôs em equipe de robótica do IFF, com participação nas competições OBR 2025 e FIRA 2025.
+- 📊 Integrante do **UFF Consulting Club**, na célula de Tech & Analytics.
+- 💻 Desenvolvendo meus conhecimentos em lógica de programação, algoritmos e desenvolvimento de software.
+- 🎯 Objetivo: transformar conhecimento em soluções práticas e construir uma carreira sólida no mercado de tecnologia.
 
 ---
 
-## 🎯 Sobre Mim
-- 🚀 **Foco Atual:** Me aprofundando em **Front-End (HTML5, CSS3, JavaScript)** para criação de Landing Pages e Aplicações Web.
-- 🧱 **Base Sólida:** Fundamentos de programação e lógica estruturados em **C** e **Python**.
-- 🎓 **Estudando na DIO:** Trilha Pro Vitalício focada em desenvolvimento web, projetos práticos e boas práticas de código.
-- 💡 **Objetivo:** Desenvolver projetos reais, monetizar com freelance e evoluir no mercado de tecnologia.
+## 🛠️ Tecnologias e conhecimentos
+
+**Linguagens de programação**
+
+- C
+- Python
+
+**Interesses em tecnologia**
+
+- Desenvolvimento de software
+- Algoritmos e estruturas de dados
+- Banco de dados
+- Análise de dados
+- Tecnologia aplicada à resolução de problemas
 
 ---
+
+## 📌 Projetos
+
+Aqui compartilho meus estudos, exercícios e projetos desenvolvidos ao longo da minha formação em Ciência da Computação.
+
+Estou trabalhando para transformar meu aprendizado em projetos cada vez mais completos, organizados e relevantes.
+
+---
+
+## 📫 Contato
+
+- **LinkedIn:** [Adicione aqui o link do seu perfil]
+- **GitHub:** [github.com/OpedroPrataDEV](https://github.com/OpedroPrataDEV)
